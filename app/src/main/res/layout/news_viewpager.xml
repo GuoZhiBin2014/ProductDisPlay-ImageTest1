@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.view.ViewPager
+        android:id="@+id/ad_banner"
+        android:layout_width="match_parent"
+        android:layout_height="200dp">
+    </android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:id="@+id/indicator_layout"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_alignBottom="@+id/ad_banner"
+        android:gravity="center_horizontal"
+        android:layout_height="20dp">
+    </LinearLayout>
+</RelativeLayout>

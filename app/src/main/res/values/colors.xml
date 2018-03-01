@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="test_background">#292421</color>
+    <color name="news_item_touch">#eeeeee</color>
+    <color name="news_item">#ffffff</color>
+    <color name="news_item_line">#AAAAAA</color>
+    <color name="main_line">#256CE0</color>
+    <color name="gridview_bg">#DCDCDC</color>
+    <color name="Color_red">#FF0000</color>
+    <color name="home_background">#EFEFEF</color>
+    <color name="menu_background">#256CE0</color>
+    <color name="gray">#256CE0</color>
+</resources>

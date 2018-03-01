@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProductDisplay</string>
+    <string name="home_tab_test">测试</string>
+    <string name="home_tab_db">统计</string>
+    <string name="home_tab_adv">资讯</string>
+    <string name="gv_text_item1">图片分类</string>
+    <string name="gv_text_item2">目标检测</string>
+    <string name="gv_text_item3">语音语义分析</string>
+    <string name="gv_text_item4">更多</string>
+    <string name="begin_btn">开始测试</string>
+    <string name="end_btn">停止测试</string>
+    <string name="classification_data_guide">机器识别图片分类，评测机器每秒可以处理图片的FPS值</string>
+    <string name="classification_imge_guide">图片分类会通过特定的训练模型，分类识别图片，按照分类概率高低输出可能的结果列表</string>
+    <string name="newsinfo_title">"寒武纪科技"</string>
+    <string name="news_item_foot">"* * * * * * 已浏览全部内容 * * * * * *"</string>
+    <string name="newsinfo_recover">"重新加载"</string>
+    <string name="classificaton_res_toast">请先导入需要的资源文件</string>
+    <string name="test_time">测试时间：</string>
+    <string name="test_result">分类结果：</string>
+    <string name="load_model">加载分类模型耗时：</string>
+    <string name="classification_chart_title">最近10次图片分类fps值</string>
+    <string name="classification_chart_desc">图片分类fps值</string>
+    <string name="classification_chart_y">FPS值：张/秒</string>
+    <string name="classification_chart_x">第几次</string>
+
+</resources>
